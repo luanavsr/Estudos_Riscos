@@ -1,2 +1,2 @@
 # VaR_Portfolio
-Exemplo, em python, de cálculo da perda máxima esperada de um portfólio.
+Aqui você encontrar exemplos de códigos em python de VaR, CVaR e Simulação de Monte Carlo com dados reais. 
